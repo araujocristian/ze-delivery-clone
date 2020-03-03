@@ -39,3 +39,23 @@ The   API   link   is:    https://api.code-challenge.ze.delivery/public/graphql
           - CategoryId:   if   null   do   not   filters   by   category.
       - The   Query   needed   to   get   the   category   list
         - Query:    https://bit.ly/2pMG8Xy
+
+### Instaling
+
+```
+yarn
+```
+or
+```
+npm install
+```
+
+and
+
+```
+yarn start
+```
+or
+```
+npm start
+```
